@@ -1,0 +1,14 @@
+#header {
+  background-color: #d1d1d1;
+}
+#header h1 {
+  display: unset;
+  margin-left: 40%;
+  text-align: center;
+}
+#conteudo {
+  background-color: #d1d1d1;
+  width: 50%;
+}
+
+/*# sourceMappingURL=estilos.css.map */

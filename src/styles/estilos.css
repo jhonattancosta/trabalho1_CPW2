@@ -2,13 +2,38 @@
   background-color: #d1d1d1;
 }
 #header h1 {
+  color: #333333;
   display: unset;
   margin-left: 40%;
   text-align: center;
 }
+
+#atividades {
+  background-color: silver;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-right: 25%;
+}
+#atividades input {
+  width: 100%;
+}
+
 #conteudo {
-  background-color: #d1d1d1;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-right: 25%;
   width: 50%;
+}
+#conteudo button {
+  background-color: silver;
+  border-radius: 5px;
+}
+#conteudo #mensagem {
+  margin-top: 1%;
+  background-color: #bebebe;
+}
+#conteudo .leituraDados {
+  background-color: #bebebe;
 }
 
 /*# sourceMappingURL=estilos.css.map */
